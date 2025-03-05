@@ -32,6 +32,13 @@ Coursework involving assignments and projects undertaken for DA5400: Foundations
 - `emails.csv` – The dataset used  
 - `Report.pdf` – Implementation details, results, and analysis  
 
+#### **🔧 Testing Instructions**  
+To test the classifier, follow these steps:  
+
+1. **Save all files** inside the `Assignment_2_Spam_Classifier/` folder.  
+2. Download the **Test folder** from the given link below (https://drive.google.com/drive/folders/1iPblBBvL2H5q5xVxpIcwD6rQjEFqViGm?usp=sharing).  
+3. Alternatively, manually **create a folder named "Test"** inside `Assignment_2_Spam_Classifier/` and **add all your test emails in `.txt` format** to run the code successfully.  
+4. Run the classifier to check the predictions.  
 ---
 
 ### **📌 Assignment 3: Dimensionality Reduction & Clustering**  
