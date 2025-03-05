@@ -13,7 +13,7 @@ Coursework involving assignments and projects undertaken for DA5400: Foundations
 - Kernel Regression  
 
 **Files:**  
-- `regression.py` – Implements different regression techniques, implements GD and SGD , applies kernel methods for regression  
+- `assignment1.py` – Implements different regression techniques, implements GD and SGD, applies kernel methods for regression  
 - `Report.pdf` – Detailed explanation and results  
 
 ---
@@ -27,10 +27,9 @@ Coursework involving assignments and projects undertaken for DA5400: Foundations
 - **Constraints:** Only inbuilt libraries for plotting, strict plagiarism rules  
 
 **Files:**  
-- `spam_classifier.py` – Implements the classification model  
-- `preprocessing.py` – Handles text processing and feature extraction  
-- `evaluation.py` – Computes accuracy, precision, recall, and confusion matrix  
-- `spam_data.csv` – The dataset used  
+- `SpamHamCV.ipynb` – Trains the classification model  
+- `NB_classifier_test_code.ipynb` – Used for testing the model, also evaluates the model using accuracy, precision, recall, and confusion matrix  
+- `emails.csv` – The dataset used  
 - `Report.pdf` – Implementation details, results, and analysis  
 
 ---
