@@ -13,9 +13,7 @@ Coursework involving assignments and projects undertaken for DA5400: Foundations
 - Kernel Regression  
 
 **Files:**  
-- `regression.py` – Implements different regression techniques  
-- `gradient_descent.py` – Implements GD and SGD  
-- `kernel_regression.py` – Applies kernel methods for regression  
+- `regression.py` – Implements different regression techniques, implements GD and SGD , applies kernel methods for regression  
 - `Report.pdf` – Detailed explanation and results  
 
 ---
