@@ -14,7 +14,9 @@ Coursework involving assignments and projects undertaken for DA5400: Foundations
 
 **Files:**  
 - `assignment1.py` – Implements different regression techniques, implements GD and SGD, applies kernel methods for regression  
-- `Report.pdf` – Detailed explanation and results  
+- `Report.pdf` – Detailed explanation and results
+- `FMLA1Q1Data_test.csv`- Test Dataset
+- `FMLA1Q1Data_train.csv`- Train Dataset
 
 ---
 
@@ -29,7 +31,7 @@ Coursework involving assignments and projects undertaken for DA5400: Foundations
 **Files:**  
 - `SpamHamCV.ipynb` – Trains the classification model  
 - `NB_classifier_test_code.ipynb` – Used for testing the model, also evaluates the model using accuracy, precision, recall, and confusion matrix  
-- `emails.csv` – The dataset used  
+- `compressed_data.csv.zip/emails.csv` – The dataset used  
 - `Report.pdf` – Implementation details, results, and analysis  
 
 #### **🔧 Testing Instructions**  
@@ -49,16 +51,10 @@ To test the classifier, follow these steps:
 - Voronoi region visualization  
 
 **Files:**  
-- `pca.py` – PCA implementation and visualization  
-- `kmeans.py` – Clustering and analysis  
-- `visualization.py` – Plots and visual analysis  
+- `PCA.ipynb` – PCA implementation and visualization  
+- `K_means.ipynb` – Clustering and analysis  
+- `cm_dataset_2.csv` – Plots and visual analysis  
 - `Report.pdf` – Explanation of methodology, findings, and conclusions  
 
 ---
 
-## 🚀 Usage Instructions  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/atharvkarkar/foundation-ml-assignments.git
-   cd foundation-ml-assignments
